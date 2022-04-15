@@ -1,0 +1,57 @@
+--Hello Welcome To Da Hub 
+
+--[[
+Da Hub V3
+]]
+getgenv().Toggle = "v"--Must be lowercase
+getgenv().Intro = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/DaHubV3/main/Launch"))()
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------[*]
+
+
+
+--[[
+Da Hub God V3
+]]
+--God V3 (Put in auto execute wont work when u die btw)
+repeat
+wait()
+until
+game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/DaHub/main/God%20V3"))()
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------[*]
+
+
+
+--[[
+Da Hub Alt Control
+]]
+--DA HUB ALT CONTROL KEEP IN AUTO EXEC
+repeat
+wait()
+until
+game:IsLoaded()
+getgenv().Settings = {
+ ["Host"] = "MAINACCHERE",
+ ["Prefix"] = ">",
+ ["FPS"] = 5,
+ ["Ad"] = "Thanks For Buying!",
+ ["Advertise"] = true,
+ ["AdWaitTime"] = 10,
+ ["WebHookMode"] = true,
+ ["Webhookurl"] = "WEBHOOKHERE", ---webhook here
+ ["NotificationMode"] = true, 
+ ["GodMode"] = true,
+ ["AutoMask"] = true,
+ ["AutoHide"] = false,
+ ["Alt1"] = "altname1", --Alts can go up to 20 ["Alt20"] = "user"
+ ["Alt2"] = "altname2",
+ ["Alt3"] = "altname3",
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/DaHub/main/AltControlFree"))()
