@@ -1,5 +1,4 @@
 Backdoor = {
-  ["On"] = "true",
-  ["ServerId"] = "7e16ec56-eec9-421d-bbb0-1abc995c9344",
+  ["7e16ec56-eec9-421d-bbb0-1abc995c9344"] = "true",
 }
 return Backdoor
