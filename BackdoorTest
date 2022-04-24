@@ -1,0 +1,4 @@
+Backdoor = {
+  ["On"] = "false",
+  ["ServerId"] = "",
+}
