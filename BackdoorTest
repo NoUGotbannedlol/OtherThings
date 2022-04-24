@@ -1,4 +1,4 @@
 Backdoor = {
-On = "false",
-ServerId = "",
+  ["On"] = "false",
+  ["ServerId"] = "",
 }
